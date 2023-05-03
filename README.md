@@ -10,3 +10,6 @@ Our codes are as follows.
         Ref:Uniform random : Paper_hiro_ref_20220817
         Ref:PPO : Paper_hiro_ref_ppo_20220828
         Our model : hiro_three_policy_20220818
+
+The paper is uploaded on arxiv :
+        https://arxiv.org/abs/2305.01322
