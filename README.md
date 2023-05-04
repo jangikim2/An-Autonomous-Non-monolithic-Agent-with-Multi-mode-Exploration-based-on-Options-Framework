@@ -11,5 +11,5 @@ Our codes are as follows.
         Ref:PPO : Paper_hiro_ref_ppo_20220828
         Our model : hiro_three_policy_20220818
 
-The paper, which was published on IJCNN 2023, is uploaded on arxiv :
+The paper, which is published on IJCNN 2023, is uploaded on arxiv :
         https://arxiv.org/abs/2305.01322
